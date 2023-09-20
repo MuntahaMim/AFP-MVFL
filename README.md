@@ -1,4 +1,4 @@
-# AntiFungallQ
+# AFP-MVFL
 Prediction:
 This directory contains the codes for the extracted featured data for ds1, ds2 and ds3. 
 
